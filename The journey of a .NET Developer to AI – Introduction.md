@@ -66,6 +66,10 @@ For example:
 * [AI Toolkit fof Azure IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
 
 ### Books
+* [Machine Learning by Tom M Mitchell](https://amzn.to/2SshzJ6)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/2BNaFHa)
+* [Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning For Beginners)](https://amzn.to/2CD73Jv)
+* 
 ### Courses
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Data Science and Machine Learning Bootcamp with R](href="https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r)
