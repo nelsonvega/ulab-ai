@@ -69,7 +69,9 @@ For example:
 * [Machine Learning by Tom M Mitchell](https://amzn.to/2SshzJ6)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/2BNaFHa)
 * [Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning For Beginners)](https://amzn.to/2CD73Jv)
-* 
+* [Introduction to Machine Learning with Python: A Guide for Data Scientists  1st Edition](https://amzn.to/2CEBIpV)
+* [Advances in Financial Machine Learning](https://amzn.to/2CF1lah)
+* [Deep Learning with Python  1st Edition](https://amzn.to/2Am1AFA)
 ### Courses
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Data Science and Machine Learning Bootcamp with R](href="https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r)
