@@ -55,8 +55,6 @@ For example:
 -   [Similarity learning](https://en.wikipedia.org/wiki/Similarity_learning "Similarity learning")
 
 
-### Unsupervised Learning (Coming soon..)
-### Reinforcement Learning (Coming soon..)
 
 ## Reference
 ### Tools within the .NET Ecosystem
