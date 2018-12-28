@@ -73,6 +73,7 @@ For example:
 * [Advances in Financial Machine Learning](https://amzn.to/2CF1lah)
 * [Deep Learning with Python  1st Edition](https://amzn.to/2Am1AFA)
 * [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://amzn.to/2GHW31q)
+* [Machine Learning: A Bayesian and Optimization Perspective (Net Developers)  1st Edition](https://amzn.to/2RpzLpm)
 ### Courses
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Data Science and Machine Learning Bootcamp with R](href="https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r)
