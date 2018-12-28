@@ -39,17 +39,17 @@ A classification problem is when the output variable is a category that you want
 Now regression is when things get interesting. Now you want to predict real values, not classifying the data.
 For example:
 
-	* How much money allocated for a specific budget line item?
-	* Predict economist growth of a state.
-	* Salary estimation.
+* How much money allocated for a specific budget line item?
+* Predict economist growth of a state.
+* Salary estimation.
 
 #### Algorithms used in Supervised Learning
 -   [Support Vector Machines](https://en.wikipedia.org/wiki/Support_Vector_Machines "Support Vector Machines")
--   [linear regression](https://en.wikipedia.org/wiki/Linear_regression "Linear regression")
--   [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
--   [naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier "Naive Bayes classifier")
--   [linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis "Linear discriminant analysis")
--   [decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning "Decision tree learning")
+-   [Linear regression](https://en.wikipedia.org/wiki/Linear_regression "Linear regression")
+-   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+-   [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier "Naive Bayes classifier")
+-   [Linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis "Linear discriminant analysis")
+-   [Decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning "Decision tree learning")
 -   [k-nearest neighbor algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm "K-nearest neighbor algorithm")
 -   [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network "Artificial neural network")  ([Multilayer perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron "Multilayer perceptron"))
 -   [Similarity learning](https://en.wikipedia.org/wiki/Similarity_learning "Similarity learning")
