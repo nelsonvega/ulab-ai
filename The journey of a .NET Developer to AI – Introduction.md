@@ -3,18 +3,27 @@
 <p>Artificial Intelligence is areas of study where human-like&nbsp;behaviors are incorporated into devices created by humans. It can take a lot of forms, it all depends&nbsp;on the device and capabilities. It is not just robots, it can be like a TV, Speaker, Thermostat, your car among so many things.&nbsp;</p>
 
 ##  What is ML( Machine Learning)
-<p>That is all good but How do we make this happen? Well, this is where ML comes into the picture.</p>
-<p>Machine Learning is a subset of Artificial Intelligence, primarily&nbsp;it revolves around the concept of a set of algorithms that allows the machine to learn from previous experience. In order to materialize these new algorithms, it leverages concepts across multiple disciplines like Statistics, Calculus, Algebra, Computer Science and others.</p>
-<p>So in principle, Software Engineering and Machine Learning,&nbsp;are the same. Both problem-solving strategies and to a certain extent they both use the same underlining concepts and type of tools.</p>
-<p>So, Software engineering is the application of engineering&nbsp;principles to the process of writing code where the developer tells the computer exactly what to do. A developer must know and test every single edge case and if the system behaves differently, is a bug.</p>
-<p>Machine Learning is the art of creating models using algorithms and mathematical&nbsp;concepts that will be used by machines to predict some output. In essence,&nbsp;the output of what we can now: Machine Learning is the generation of the model that will be used to predict and behave in a certain way.</p>
-<p>As I mentioned, the whole point of Machine Learning is to teach machines how to understand&nbsp;some problem and predict the result.</p>
-<p>How do we teach them to do that? Well, there are certain ML Strategies that we could apply.</p>
-<p>Here you have a list.&nbsp;</p>
-<h3>Supervised Learning</h3>
-<p>SL is the Data mining process of inferring a function from labeled training data.&nbsp;&nbsp;</p>
-<p>Confused? me too.</p>
-<p>Let me try again, You have an input X and an output Y, and you know both. For example, let's say you have a data set with data about people who live in a zip code and their voting history. Using that information, you want to predict if a person in that zip code will be voting next year.</p>
+That is all good but How do we make this happen? Well, this is where ML comes into the picture.
+
+Machine Learning is a subset of Artificial Intelligence, primarily&nbsp;it revolves around the concept of a set of algorithms that allows the machine to learn from previous experience. In order to materialize these new algorithms, it leverages concepts across multiple disciplines like Statistics, Calculus, Algebra, Computer Science and others.
+
+So in principle, Software Engineering and Machine Learning,&nbsp;are the same. Both problem-solving strategies and to a certain extent they both use the same underlining concepts and type of tools.
+
+So, Software engineering is the application of engineering&nbsp;principles to the process of writing code where the developer tells the computer exactly what to do. A developer must know and test every single edge case and if the system behaves differently, is a bug.
+
+Machine Learning is the art of creating models using algorithms and mathematical concepts that will be used by machines to predict some output. In essence,&nbsp;the output of what we can now: Machine Learning is the generation of the model that will be used to predict and behave in a certain way.
+
+As I mentioned, the whole point of Machine Learning is to teach machines how to understand&nbsp;some problem and predict the result.
+
+How do we teach them to do that? Well, there are certain ML Strategies that we could apply.
+Here you have a list.
+
+### Supervised Learning
+SL is the Data mining process of inferring a function from labeled training data.
+
+Confused? me too.
+
+Let me try again, You have an input X and an output Y, and you know both. For example, let's say you have a data set with data about people who live in a zip code and their voting history. Using that information, you want to predict if a person in that zip code will be voting next year.</p>
 <p>The whole point of supervised learning is about to create a function&nbsp;that maps the relationship between X(input) and Y( the output)</p>
 <p>The goal is to approximate the mapping function so close that when you have a new data input, the output is correct.</p>
 <p>Now, Supervised Learning can be grouped in:</p>
