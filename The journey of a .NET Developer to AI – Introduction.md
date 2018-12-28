@@ -60,9 +60,12 @@ For example:
 
 ## Reference
 ### Tools within the .NET Ecosystem
-#### Tools outside the .NET Space
+*  [Visual Studio Tools for AI ](https://visualstudio.microsoft.com/downloads/ai-tools-vs/)
+* [Azure ML  Studio](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
+* [Azure ML Service](https://azure.microsoft.com/en-us/services/machine-learning-service/)
+* [AI Toolkit fof Azure IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
+
 ### Books
-### Articles
 ### Courses
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Data Science and Machine Learning Bootcamp with R](href="https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r)
@@ -71,3 +74,12 @@ For example:
 * [Coursera: Machine Learning Specialization](href="https://www.coursera.org/specializations/machine-learning)
 * [The Complete Machine Learning Course with Python](href="https://www.udemy.com/machine-learning-course-with-python)
 * [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+* [AI School](https://aischool.microsoft.com/en-us/home)
+### Reference
+*  [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/?tag=artificial-intelligence)
+* [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/)
+* [Azure AI Business](https://www.microsoft.com/en-us/ai/business)
+* 
+
+
+
