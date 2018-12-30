@@ -6,7 +6,7 @@ Artificial Intelligence is areas of study where human-like&nbsp; behaviors are i
 ##  What is ML( Machine Learning)
 That is all good but How do we make this happen? Well, this is where ML comes into the picture.
 
-Machine Learning is a subset of Artificial Intelligence, primarily&nbsp; it revolves around the concept of a set of algorithms that allows the machine to learn from previous experience. In order to materialize these new algorithms, it leverages concepts across multiple disciplines like Statistics, Calculus, Algebra, Computer Science and others.
+Machine Learning is a subset of Artificial Intelligence, primarily revolves around the concept of a set of algorithms that allows the machine to learn from previous experience. In order to materialize these new algorithms, it leverages concepts across multiple disciplines like Statistics, Calculus, Algebra, Computer Science and others.
 
 So in principle, Software Engineering and Machine Learning,&nbsp; are the same. Both problem-solving strategies and to a certain extent they both use the same underlining concepts and type of tools.
 
@@ -90,3 +90,6 @@ For example:
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3MTI2NjA4Ml19
+-->
