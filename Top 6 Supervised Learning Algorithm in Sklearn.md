@@ -44,11 +44,12 @@ The classifier makes a very strong assumption on the shape of the data distribut
 
 For Example :
 Taking a nap after eating turkey.
+````LaTeX
 P(nap)=Probability of taking a npa.
 P(dinner) = Probability of eating turkey.
-
-````LaTeX
 P(nap/turkey)=(P(turkey|nap) P(nap))/P(turkey)
+
+$\frac{1}{4}^{\prime\prime}$
 ````
 
  	
