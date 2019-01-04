@@ -44,16 +44,13 @@ The classifier makes a very strong assumption on the shape of the data distribut
 
 For Example :
 Taking a nap after eating turkey.
-````LaTeX
+
 P(nap)=Probability of taking a npa.
 P(dinner) = Probability of eating turkey.
 P(nap/turkey)=(P(turkey|nap) P(nap))/P(turkey)
 
-$\frac{1}{4}^{\prime\prime}$
-````
-
+$P(nap/turkey)=\frac{P(turney|nap)*P(nap)}{P(turkey)}$
  	
-
 
 ## Decision Trees
 ##  Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)
