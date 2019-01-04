@@ -52,6 +52,9 @@ P(nap/turkey)=(P(turkey|nap) P(nap))/P(turkey)
 $P(nap/turkey)=\frac{P(turney|nap)*P(nap)}{P(turkey)}$
  	
 
+
+
+
 ## Decision Trees
 ##  Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)
 ##  K-Nearest Neighbors (KNeighbors)
