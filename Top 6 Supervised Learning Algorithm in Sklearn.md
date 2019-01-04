@@ -49,7 +49,7 @@ P(nap)=Probability of taking a npa.
 P(dinner) = Probability of eating turkey.
 P(nap/turkey)=(P(turkey|nap) P(nap))/P(turkey)
 
-$\frac{P(turney|nap)*P(nap)}{P(turkey)}$
+$P(nap/turkey)=\frac{P(turney|nap)*P(nap)}{P(turkey)}$
  	
 
 
