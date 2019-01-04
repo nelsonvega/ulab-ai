@@ -46,17 +46,12 @@ For Example :
 Taking a nap after eating turkey.
 P(nap)=Probability of taking a npa.
 P(dinner) = Probability of eating turkey.
-		    
-\frac{\frac{x}{1}}{x - y}
 
-```math_def
-  
-
-	```
-
+````LaTeX
 P(nap/turkey)=(P(turkey|nap) P(nap))/P(turkey)
+````
 
-
+ 	
 
 
 ## Decision Trees
