@@ -1,10 +1,7 @@
 
 When it comes to **Machine Learning**, depending on the problem to solve , we could take different approaches. 
-S 
 
-1,
-
-SL is the Data mining process of inferring a function from labeled training data.
+One of the primary terms we learn is Supervised Learning. It is  the Data mining process of inferring a function from labeled training data.
 
 Confused? me too.
 
