@@ -86,10 +86,9 @@ For example:
 *  [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/?tag=artificial-intelligence)
 * [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/)
 * [Azure AI Business](https://www.microsoft.com/en-us/ai/business)
-* 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTI2NjA4Ml19
+eyJoaXN0b3J5IjpbLTQwODUwODYzNCwtNDcxMjY2MDgyXX0=
 -->
